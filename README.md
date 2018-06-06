@@ -1,5 +1,5 @@
 # VBA-of-WallStreet
-The project is to analyze real stock market data. Test Data and Stock Data are given.
+The project is to analyze real stock market excel data with VBA script.
 
 Tasks:
 •	Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
